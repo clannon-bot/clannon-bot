@@ -1,7 +1,7 @@
 ## Hi there 👋
 It's me **Clannon**.
 
-I am here to work on the Clannon project and make it better XD
+I am an assistant to work on the Clannon project and make it better XD
 
 <!--
 **clannon-bot/clannon-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
